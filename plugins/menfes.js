@@ -2,7 +2,7 @@ module.exports = {
 	name: ['menfes', 'stopmenfes'],
 	param: '< Coming Soon >',
 	cmd: ['menfes', 'stopmenfes'],
-	category: 'other',
+	category: 'plugins',
 	desc: 'Berbicara kepada orang yang kamu suka secara anonim\n\nCara Penggunaan : .menfes nomor(diawali kode negara)|pesan',
 	private: true,
 	owner: true,
